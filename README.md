@@ -1,4 +1,10 @@
 # VISTA PHP USER Defined Function Libery Developed by Guddu Modok.
+.....................................................................................................................................
+# First download the zip file.than extract it into root folder.than include vista/.vista
+# or Use VISTA CDN https://vcsites.xyz/vista/.vista
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
 1. redirect(target link); :-Redirect to the Target Location
 
 2. timeredirect(time,target link);:-Redirect you to the target link when the time is up.
